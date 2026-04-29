@@ -14,7 +14,6 @@ Buffon's needle problem is a foundational question in geometric probability. Con
 
 Remarkably, this probability involves the transcendental number $\pi$ By experimenting — dropping a needle many times and counting crossings — one can estimate $\pi$ empirically, making the problem one of the earliest examples of a **Monte Carlo method**: using randomness to solve deterministic mathematical problems.
 
-**Historical Background**
 
 - **1733**: Georges-Louis Leclerc, Comte de Buffon, first introduces the problem without providing a solution.
 - **1777**: Buffon publishes the complete solution, along with a famous (though possibly apocryphal) account of an experiment: 2,212 tosses yielding 704 crossings, giving an estimate of $\pi = 3.14\$.
@@ -22,9 +21,7 @@ Remarkably, this probability involves the transcendental number $\pi$ By experim
 - **1901**: Mario Lazzarini claims an extraordinarily accurate estimate of $\pi$ to six decimals using 3,408 tosses, but later scrutiny suggests data manipulation.
 Despite these myths, the problem’s true legacy lies in its conceptual breakthrough.
 
-**Modern Applications**
 
-<div dir="ltr" style="text-align: left;">
   
 Today, Buffon's needle transcends its historical curiosity. Its core idea — **Monte Carlo integration** — is ubiquitous in computational physics, finance, and machine learning. Direct applications include:
 - **Estimating $\pi$ for pedagogical purposes**: still used in classrooms to illustrate simulation-based inference.
@@ -33,4 +30,30 @@ Today, Buffon's needle transcends its historical curiosity. Its core idea — **
 - **Foundations of statistical mechanics**: the crossing probability mirrors concepts in percolation theory and random media.
 
 In essence, Buffon's needle is not merely an antique puzzle; it is a historical seed from which modern stochastic simulation has grown.
-</div>
+
+ ### Results
+ Now I tried to model this method using **MATLAB** to show how it possible to implement it and the effect of each parameters on the outcome.
+At first I chose 150 needles to estimate the $\pi$ number as it is shown in below.
+
+![ Needles = 150](needle_n=150.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
