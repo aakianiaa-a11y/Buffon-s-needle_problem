@@ -12,7 +12,7 @@ Buffon's needle problem is a foundational question in geometric probability. Con
 
 
 
-Remarkably, this probability involves the transcendental number \( \pi \). By experimenting — dropping a needle many times and counting crossings — one can estimate \( \pi \) empirically, making the problem one of the earliest examples of a **Monte Carlo method**: using randomness to solve deterministic mathematical problems.
+Remarkably, this probability involves the transcendental number $pi$. By experimenting — dropping a needle many times and counting crossings — one can estimate %pi$ empirically, making the problem one of the earliest examples of a **Monte Carlo method**: using randomness to solve deterministic mathematical problems.
 
 **Historical Background**
 
