@@ -35,7 +35,7 @@ In essence, Buffon's needle is not merely an antique puzzle; it is a historical 
  Now I tried to model this method using **MATLAB** to show how it possible to implement it and the effect of each parameters on the outcome.
 At first I chose 150 needles to estimate the $\pi$ number as it is shown in below.
 
-![ Needles = 150](main/needle_n=150.JPG)
+![ Needles = 150](needle_n=150.jpg)
 
 
 
