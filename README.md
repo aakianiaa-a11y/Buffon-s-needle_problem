@@ -11,29 +11,6 @@ Buffon's needle problem is a foundational question in geometric probability. Con
 <h1 align="center" style="font-size: 60px;"> $P = \frac{2l}{\pi t}$</h1>
 
 
-<!-- عنوان اصلی بزرگ و وسط -->
-<h1 align="center" style="font-size: 60px;">📐 ریاضیات در GitHub</h1>
-
-<!-- زیرعنوان -->
-<h3 align="center">راهنمای نمایش فرمول‌ها و متن‌های بزرگ</h3>
-
-<p align="center" style="font-size: 18px;">
-  این متن کمی بزرگتر از معمول است و در وسط صفحه قرار دارد.
-</p>
-
-<p align="center">
-  <span style="font-size: 24px; color: #0366d6;">
-    ⚡ متن رنگی و بزرگ ⚡
-  </span>
-</p>
-
-
-
-
-
-
-
-
 
 Remarkably, this probability involves the transcendental number \( \pi \). By experimenting — dropping a needle many times and counting crossings — one can estimate \( \pi \) empirically, making the problem one of the earliest examples of a **Monte Carlo method**: using randomness to solve deterministic mathematical problems.
 
