@@ -1,8 +1,6 @@
 # Buffon's-needle_problem
 Buffon's needle problem and solve it using MATLAB
 
-Certainly! Here's a concise, engaging, and technically accurate English text covering Buffon's needle problem, its history, and modern applications, as requested.
-
 ---
 
 ### Buffon's Needle: A Geometric Probability Classic
@@ -35,6 +33,3 @@ Today, Buffon's needle transcends its historical curiosity. Its core idea — **
 
 In essence, Buffon's needle is not merely an antique puzzle; it is a historical seed from which modern stochastic simulation has grown.
 
----
-
-Let me know if you need a shorter version or a different tone — I’m happy to adapt.
