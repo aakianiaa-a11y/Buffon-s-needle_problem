@@ -5,7 +5,7 @@ Buffon's needle problem and solve it using MATLAB
 
 ### Buffon's Needle: A Geometric Probability Classic
 
-Buffon's needle problem is a foundational question in geometric probability. Consider a plane ruled with parallel lines spaced uniformly at distance \( t \). A needle of length L (with \( l \leq t \)) is dropped randomly. What is the probability \( P \) that the needle crosses one of the lines? The elegant answer is:  $P = \frac{2l}{\pi t}$
+Buffon's needle problem is a foundational question in geometric probability. Consider a plane ruled with parallel lines spaced uniformly at distance \( t \). A needle of length $l$ (with $l <= t$) is dropped randomly. What is the probability \( P \) that the needle crosses one of the lines? The elegant answer is:  $P = \frac{2l}{\pi t}$
 
 \[
 P = \frac{2l}{\pi t}
