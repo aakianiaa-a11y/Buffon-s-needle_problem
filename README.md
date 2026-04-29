@@ -7,6 +7,30 @@ Buffon's needle problem and solve it using MATLAB
 
 Buffon's needle problem is a foundational question in geometric probability. Consider a plane ruled with parallel lines spaced uniformly at distance $t$. A needle of length $l$ (with $$l <= t$$) is dropped randomly. What is the probability $P$ that the needle crosses one of the lines? The elegant answer is: 
 
+
+
+<!-- عنوان اصلی بزرگ و وسط -->
+<h1 align="center" style="font-size: 60px;">📐 ریاضیات در GitHub</h1>
+
+<!-- زیرعنوان -->
+<h3 align="center">راهنمای نمایش فرمول‌ها و متن‌های بزرگ</h3>
+
+<p align="center" style="font-size: 18px;">
+  این متن کمی بزرگتر از معمول است و در وسط صفحه قرار دارد.
+</p>
+
+<p align="center">
+  <span style="font-size: 24px; color: #0366d6;">
+    ⚡ متن رنگی و بزرگ ⚡
+  </span>
+</p>
+
+
+
+
+
+
+
  $P = \frac{2l}{\pi t}$
 
 Remarkably, this probability involves the transcendental number \( \pi \). By experimenting — dropping a needle many times and counting crossings — one can estimate \( \pi \) empirically, making the problem one of the earliest examples of a **Monte Carlo method**: using randomness to solve deterministic mathematical problems.
