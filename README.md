@@ -12,12 +12,12 @@ Buffon's needle problem is a foundational question in geometric probability. Con
 
 
 
-Remarkably, this probability involves the transcendental number $\pi By experimenting — dropping a needle many times and counting crossings — one can estimate $\pi empirically, making the problem one of the earliest examples of a **Monte Carlo method**: using randomness to solve deterministic mathematical problems.
+Remarkably, this probability involves the transcendental number $\pi$ By experimenting — dropping a needle many times and counting crossings — one can estimate $\pi$ empirically, making the problem one of the earliest examples of a **Monte Carlo method**: using randomness to solve deterministic mathematical problems.
 
 **Historical Background**
 
 - **1733**: Georges-Louis Leclerc, Comte de Buffon, first introduces the problem without providing a solution.
-- **1777**: Buffon publishes the complete solution, along with a famous (though possibly apocryphal) account of an experiment: 2,212 tosses yielding 704 crossings, giving an estimate of $\pi = 3.14 \.
+- **1777**: Buffon publishes the complete solution, along with a famous (though possibly apocryphal) account of an experiment: 2,212 tosses yielding 704 crossings, giving an estimate of $\pi = 3.14\$.
 - **1812**: Pierre-Simon Laplace generalises the problem to a grid of orthogonal lines (rectangular lattice), creating the Buffon‑Laplace needle problem.
 - **1901**: Mario Lazzarini claims an extraordinarily accurate estimate of \( \pi \) to six decimals using 3,408 tosses, but later scrutiny suggests data manipulation.
 Despite these myths, the problem’s true legacy lies in its conceptual breakthrough.
