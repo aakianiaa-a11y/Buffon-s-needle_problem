@@ -36,6 +36,7 @@ In essence, Buffon's needle is not merely an antique puzzle; it is a historical 
 At first I chose 150 needles to estimate the $\pi$ number as it is shown in below.
 
 ![ Needles = 150](needle_n=150.jpg)
+<h1 align="center" style="font-size: 10px;"> $\pi = 3.125 $</h1>
 
 
 
