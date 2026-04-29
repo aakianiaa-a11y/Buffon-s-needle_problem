@@ -37,7 +37,9 @@ At first I chose 150 needles to estimate the $\pi$ number as it is shown in belo
 
 ![ Needles = 150](needle_n=150.jpg)
 
-Then I changed the number of needles to 180 it was obtained more accurate ($\pi = 3.125 $).
+---
+
+Then I changed the number of needles to 180 it was obtained more accurate ($\pi = 3.1575 $).
 ![ Needles = 150](needle_n=180.jpg)
 
 
